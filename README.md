@@ -3,8 +3,9 @@ Playwright JavaScript Automation Testing from Scratch
 
 
 # Clone the Project 
-git clone https://github.com/cypress1980/Playwright_With_JavaScript.git
-Execute npm install command 
+1. git clone https://github.com/cypress1980/Playwright_With_JavaScript.git
+
+2. Execute 'npm install' command 
 
 # Set up Playwright with JavaScript
 
