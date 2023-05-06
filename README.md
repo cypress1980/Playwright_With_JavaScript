@@ -2,3 +2,16 @@
 Playwright JavaScript Automation Testing from Scratch
 
 # Set up Playwright with JavaScript
+
+# Step 1:  Set-up project 
+To get started with Playwright, you'll need to create a new JavaScript project. You can do this by running the following commands in your terminal.
+
+mkdir playwrights_with_JavaScript
+cd playwrights_with_JavaScript
+npm init -y
+
+# Step 2: Playwright Installation
+You'll need to install Playwright as a dependency of your project. You can do this by running the following command in your terminal
+
+npm init playwright@latest
+
